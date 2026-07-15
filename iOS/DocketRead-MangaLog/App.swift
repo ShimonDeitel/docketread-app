@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct DocketRead-MangaLogApp: App {
+struct DocketReadMangaLogApp: App {
     @StateObject private var store = Store()
     @StateObject private var purchaseManager = PurchaseManager()
 
