@@ -55,7 +55,7 @@ targets:
       base:
         DEVELOPMENT_TEAM: W7Q885Q59C
 schemes:
-  DocketRead-MangaLog:
+  Docket Read - Manga Log:
     build:
       targets:
         DocketRead-MangaLog: all
